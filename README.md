@@ -1,4 +1,5 @@
 # Student Academic Performance Prediction using Autoencoder + Mutual Information + CNN-GRU
+Created by Abid Ali
 
 ## Overview
 This project predicts **student academic performance (Final Grade)** using a hybrid deep learning pipeline that combines:
